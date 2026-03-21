@@ -1,0 +1,26 @@
+{
+    "DESIGN_NAME": "top",
+    "VERILOG_FILES": [
+        "dir::src/top.v",
+        "dir::src/instruction_fetch_unit.v",
+        "dir::src/instruction_memory.v",
+        "dir::src/control_unit.v",
+        "dir::src/data_path.v",
+        "dir::src/imm_gen.v",
+        "dir::src/register_file.v",
+        "dir::src/alu.v",
+        "dir::src/data_memory.v"
+    ],
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 14.1,
+    "FP_CORE_UTIL": 45,
+    "PL_TARGET_DENSITY": 0.50,
+    "FP_SIZING": "absolute",
+    "DIE_AREA": "0 0 900 900",
+    "CORE_AREA": "10 10 890 890",
+    "FP_PDN_VPITCH": 100,
+    "FP_PDN_HPITCH": 100,
+    "FP_PDN_VOFFSET": 10,
+    "FP_PDN_HOFFSET": 10,
+    "DESIGN_IS_CORE": true
+}
