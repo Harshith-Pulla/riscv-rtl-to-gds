@@ -363,5 +363,5 @@ Course: Digital ASIC Flow | Academic Year 2025–2026
 ---
 
 <p align="center">
-  Made with ❤️ using open-source EDA tools &nbsp;|&nbsp; SkyWater 130nm PDK &nbsp;|&nbsp; OpenLane / OpenROAD
+  Made with open-source EDA tools &nbsp;|&nbsp; SkyWater 130nm PDK &nbsp;|&nbsp; OpenLane / OpenROAD
 </p>**
