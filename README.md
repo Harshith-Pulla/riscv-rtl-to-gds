@@ -323,23 +323,6 @@ cat runs/fourth_run/logs/signoff/32-irdrop.log
 openroad
 read_def runs/fourth_run/results/routing/top.def
 ```
-
----
-
-## Team
-
-**Sreenidhi Institute of Science and Technology**
-Department of Electronics and Communication Engineering
-Course: Digital ASIC Flow | Academic Year 2025–2026
-
-| Name | Roll Number |
-|------|-------------|
-| P. Harshith | 22311A04K5 |
-| Ch. Vishnu | 22311A04L5 |
-| G. Sai Charan | 22311A04M5 |
-
-**Guide:** Prof. Vikram Poladia, ECE Department
-
 ---
 
 ## References
