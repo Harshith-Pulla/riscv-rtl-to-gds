@@ -1,14 +1,4 @@
 **# RTL to GDSII Implementation of a 32-bit RV32I Single-Cycle RISC-V Processor
-
-<p align="center">
-  <img src="https://img.shields.io/badge/RISC--V-RV32I-blue?style=for-the-badge&logo=riscv"/>
-  <img src="https://img.shields.io/badge/PDK-SkyWater%20130nm-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tool-OpenLane%20%2F%20OpenROAD-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Tapeout%20Ready-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DRC-Clean-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LVS-Clean-brightgreen?style=for-the-badge"/>
-</p>
-
 ---
 
 ## 📌 Table of Contents
